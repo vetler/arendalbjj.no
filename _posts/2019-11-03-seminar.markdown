@@ -1,0 +1,25 @@
+---
+layout: post
+title:  "Seminar og julebord 30. november"
+date:   2019-11-03 10:07:01 
+categories:
+---
+<img src="{{ "/" | relative_url }}/assets/images/seminar_2019-11-30.jpg" style="  max-width:95%;
+                                                           border: solid #fff;
+                                                           border-width: 6px 6px 20px 6px;
+                                                           box-shadow: 1px 1px 5px #333;
+                                                           -webkit-box-shadow: 1px 1px 5px #333;
+                                                           -moz-box-shadow: 1px 1px 5px #333;
+                                                           display: block;">
+                                                           
+Vi inviterer til seminar og gradering med Eduardo Teta Rios!
+
+Teta stammer fra en familie av svartbelter og er i dag 4. grads svartbelte under Ricardo Liborio. BJJ-stamtavlen hans går strake veien tilbake til Carlson Gracie. Han startet å trene da han var seks år gammel og i Brasil trente han daglig med mange av de store navnene de fleste av oss bare har hørt om.
+
+<b>Pris for seminar:</b> 300 for medlemmer, 400 for eksterne
+
+<i>Det blir ikke mulighet til å betale med kontanter - vi tar kun Vipps eller betaling til kontonummer 1503.96.13090 (skriv hva det gjelder i betalingsmeldingen).</i>
+
+På kvelden blir det også julebord, mer info om det kommer etterhvert - det blir en egen påmelding for dette.
+
+Vi sees! :)
