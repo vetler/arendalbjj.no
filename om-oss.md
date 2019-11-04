@@ -25,15 +25,17 @@ Vetle har brunt belte under Eduardo Teta Rios fra Frontline Academy i Oslo, et a
 
 ### Petter Gjertsen
 
-
+Petter har lilla belte, og har trent i Larvik BJJ og på Frontline Academy. Han konkurrerer mye, og har flere medaljer fra blant annet Sande BJJ cup og BJJ Scandinavia Open.
 
 ### Tina Bjerkeng
 
-Tina har blått belte i BJJ, er en av våre mest meritterte utøvere, og 
+Tina har blått belte, er en av våre mest meritterte utøvere, og har vunnet medaljer i nesten alle konkurranser siden første gang hun
+konkurrerte.
 
 ### Richard Hansen
 
 Richard hard blåtte belte i BJJ, og elsker de mest kompliserte teknikkene som finnes i BJJ - derfor har han også ansvaret for advanced-treningene våre.
 
 ### Alf-Arne Risdal
+
 
