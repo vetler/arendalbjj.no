@@ -38,4 +38,8 @@ Richard har blått belte i BJJ, og elsker de mest kompliserte teknikkene som fin
 
 ### Alf-Arne Risdal
 
+Alfie har blått belte i BJJ, 
 
+### Dan Thomas Marceliussen
+
+Det finnes neppe en kampsport som Dan Thomas ikke har trent, og han er ekspert på nærkamp og selvforsvar. Hos oss er han instruktør på nogi/submission wrestling-partiet. Han kan også rulle med pysjamas, og har blått belte i BJJ.
