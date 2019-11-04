@@ -34,7 +34,7 @@ konkurrerte.
 
 ### Richard Hansen
 
-Richard hard blåtte belte i BJJ, og elsker de mest kompliserte teknikkene som finnes i BJJ - derfor har han også ansvaret for advanced-treningene våre.
+Richard har blått belte i BJJ, og elsker de mest kompliserte teknikkene som finnes i BJJ - derfor har han også ansvaret for advanced-treningene våre.
 
 ### Alf-Arne Risdal
 
