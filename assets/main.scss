@@ -1,0 +1,25 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+@import "minima";
+
+.polaroid {
+ max-width:95%;
+                                                           border: solid #fff;
+                                                           border-width: 6px 6px 20px 6px;
+                                                           box-shadow: 1px 1px 5px #333;
+                                                           -webkit-box-shadow: 1px 1px 5px #333;
+                                                           -moz-box-shadow: 1px 1px 5px #333;
+                                                           display: block;
+                                                           }
+
+ .instructor {
+ float: left;
+ margin-right: 15px;
+ margin-bottom: 20px;
+ }
+
+ h3 {
+ clear: both;
+ }

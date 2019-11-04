@@ -15,8 +15,8 @@ permalink: /treningstider/
 
 <b>Basic:</b> Dette partiet tar for seg grunnleggende teknikker, og er partiet alle nybegynnere starter på. Åpent for alle nivåer.
 
-<b>Intermediate:</b> Et parti for de som kan det mest grunnleggende og trenger større utfordringer. Åpent for de med hvitt med en stripe og oppover.
+<b>Intermediate:</b> Et parti for de som kan det mest grunnleggende og trenger større utfordringer. Åpent for de med hvitt belte med en stripe og oppover.
 
 <b>Advanced:</b> For de som vil lære de mest avanserte teknikkene. Åpent for blåbelter og oppover.
 
-<b>No-gi:</b> Her trenger vi uten gi, med rashguard og shorts og/eller tights. Kalles også submission wrestling. Åpent for alle nivåer.
+<b>No-gi:</b> Her trener vi uten gi, med rashguard og shorts og/eller tights. Kalles også submission wrestling. Åpent for alle nivåer.
