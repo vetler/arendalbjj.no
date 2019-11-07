@@ -10,7 +10,7 @@ permalink: /kontakt/
 
 <b>Besøksadresse:</b> Hansnesveien 27c 
 
-<img src="{{ "/" | relative_url }}/assets/images/kart.png" style="  max-width:95%;
+<img src="{{ "" | relative_url }}/assets/images/kart.png" style="  max-width:95%;
                                                            border: solid #fff;
                                                            border-width: 6px 6px 20px 6px;
                                                            box-shadow: 1px 1px 5px #333;
