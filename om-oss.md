@@ -21,28 +21,28 @@ Vi er stolte av vår BJJ-stamtavle som går strake veien tilbake til Carlson Gra
 
 ### Vetle Leinonen-Roeim
 
-<img style="max-width: 45%;" src="{{ "/" | relative_url }}/assets/images/people/vetle.jpg" class="polaroid instructor"/>
+<img style="max-width: 45%;" src="{{ "" | relative_url }}/assets/images/people/vetle.jpg" class="polaroid instructor"/>
  Vetle har brunt belte under Eduardo Teta Rios fra Frontline Academy i Oslo, et av europas beste BJJ-akademier, hvor han trente i mange år. I 2014 flyttet han til Grimstad, og siden den gang har han vært instruktør i Grimstad Grappling & MMA, Performance Kampsportsenter, og nå Arendal BJJ.
 
 ### Petter Gjertsen
 
-<img style="max-width: 45%;" src="{{ "/" | relative_url }}/assets/images/people/petter.jpg" class="polaroid instructor"/>
+<img style="max-width: 45%;" src="{{ "" | relative_url }}/assets/images/people/petter.jpg" class="polaroid instructor"/>
 Petter har lilla belte, og har trent i Larvik BJJ og på Frontline Academy. Han konkurrerer mye, og har flere medaljer fra blant annet Sande BJJ cup og BJJ Scandinavia Open.
 
 ### Tina Bjerkeng
 
-<img style="max-width: 45%;" src="{{ "/" | relative_url }}/assets/images/people/tina.jpg" class="polaroid instructor"/>
+<img style="max-width: 45%;" src="{{ "" | relative_url }}/assets/images/people/tina.jpg" class="polaroid instructor"/>
 Tina har blått belte, er en av våre mest meritterte utøvere, og har vunnet medaljer i nesten alle konkurranser siden første gang hun
 konkurrerte.
 
 ### Richard Hansen
-<img style="max-width: 45%;" src="{{ "/" | relative_url }}/assets/images/people/richard.jpg" class="polaroid instructor"/>
+<img style="max-width: 45%;" src="{{ "" | relative_url }}/assets/images/people/richard.jpg" class="polaroid instructor"/>
 Richard har blått belte i BJJ, og elsker de mest kompliserte teknikkene som finnes i BJJ - derfor har han også ansvaret for advanced-treningene våre.
 
 ### Alf-Arne Risdal
-<img style="max-width: 45%;" src="{{ "/" | relative_url }}/assets/images/people/alf.jpg" class="polaroid instructor"/>
+<img style="max-width: 45%;" src="{{ "" | relative_url }}/assets/images/people/alf.jpg" class="polaroid instructor"/>
 Alfie har blått belte i BJJ, og har konkurrert mye. Liker både takedowns og guard pulls, og trening både med og uten gi.
 
 ### Dan Thomas Marceliussen
-<img style="max-width: 45%;" src="{{ "/" | relative_url }}/assets/images/people/danthomas.jpg" class="polaroid instructor"/>
+<img style="max-width: 45%;" src="{{ "" | relative_url }}/assets/images/people/danthomas.jpg" class="polaroid instructor"/>
 Det finnes neppe en kampsport som Dan Thomas ikke har trent, og han er ekspert på nærkamp og selvforsvar. Hos oss er han instruktør på nogi/submission wrestling-partiet. Han kan også rulle med pysjamas, og har blått belte i BJJ.
