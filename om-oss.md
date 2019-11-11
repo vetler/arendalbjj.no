@@ -7,7 +7,10 @@ permalink: /om-oss/
 Arendal BJJ er en undergruppe i Arendal Jiu Jitsu Klubb, hvor vi trener Brasiliansk jiu-jitsu.
 
 ## Hva er Brasiliansk jiu-jitsu?
-
+<iframe width="370" height="200" src="https://www.youtube.com/embed/28P6EVeneYo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" style="
+    float: right;
+    margin: 2px;
+"></iframe>
 Brasiliansk jiu-jitsu (BJJ) er en kampsport som særlig fokuserer på grep og kamp på bakken - vi starter også stående og gjør
 kast og nedtagninger som eksempelvis i judo og bryting, men fortsetter på bakken og forsøker å få en dominerende
 posisjon eller avslutte kampen med kveldning, armlås, skulderlås eller fotlås.
