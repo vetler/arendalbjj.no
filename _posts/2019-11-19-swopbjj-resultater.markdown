@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Swedish Open BJJ 2019 Resultater"
-date:   2019-11-19 10:07:00
+title:  "Resultater fra Swedish Open BJJ 2019"
+date:   2019-11-18 10:00:00
 categories:
 ---
 I helgen deltok vi på [Swedish Open BJJ 2019](http://www.swopbjj.se/) i Stenungsund, Sverige. Med over 1000 deltagere er dette den største konkurransen innenfor Brasiliansk jiu-jitsu i hele Skandinavia.
