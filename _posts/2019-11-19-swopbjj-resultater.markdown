@@ -16,6 +16,6 @@ Det var 3. gang vi deltok, og av 7 utøvere tok vi til sammen med 5 medaljer hje
 * Richard Hansen, 2. plass i åpen klasse menn, blåbelter, -76kg
 
 
-<img src="{{ "" | relative_url }}/assets/images/swopbjj1.jpg" class="polaroid">
+<img src="{{ "" | relative_url }}/assets/images/2019/swopbjj1.jpg" class="polaroid">
 
-<img src="{{ "" | relative_url }}/assets/images/swopbjj2.jpg" class="polaroid">
+<img src="{{ "" | relative_url }}/assets/images/2019/swopbjj2.jpg" class="polaroid">
