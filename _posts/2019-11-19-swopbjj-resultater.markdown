@@ -15,6 +15,7 @@ Det var 3. gang vi deltok, og av 7 utøvere tok vi til sammen med 5 medaljer hje
 * Benjamin Geest, 1. plass i åpen klasse menn, hvitbelter, master 30+
 * Richard Hansen, 2. plass i åpen klasse menn, blåbelter, -76kg
 
+<br/>
 
 <img src="{{ "" | relative_url }}/assets/images/2019/swopbjj1.jpg" class="polaroid">
 
