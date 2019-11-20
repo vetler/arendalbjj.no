@@ -27,6 +27,7 @@ plugins:
 
 show_excerpts: true
 
+google_analytics: UA-7029768-3
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
