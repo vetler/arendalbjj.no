@@ -12,4 +12,4 @@ men den store overraskelsen var at vår hovedinstruktør Vetle Leinonen-Roeim bl
 
 Vi er dermed første og eneste BJJ-klubb på Sørlandet som har en sortbelte som fast instruktør.
 
-Ta du har lyst til å trene med oss eller lurer på om Brasiliansk jiu-jitsu er noe for deg, så er det bare å ta [kontakt](info@arendalbjj.no) eller komme innom på prøvetime.
+Har du har lyst til å trene med oss eller lurer på om Brasiliansk jiu-jitsu er noe for deg, så er det bare å ta [kontakt](info@arendalbjj.no) eller komme innom på prøvetime.
