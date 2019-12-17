@@ -25,7 +25,7 @@ Vi er stolte av vår BJJ-stamtavle som går strake veien tilbake til Carlson Gra
 ### Vetle Leinonen-Roeim
 
 <img style="max-width: 45%;" src="{{ "" | relative_url }}/assets/images/people/vetle.jpg" class="polaroid instructor"/>
- Vetle har brunt belte under Eduardo Teta Rios fra Frontline Academy i Oslo, et av europas beste BJJ-akademier, hvor han trente i mange år. I 2014 flyttet han til Grimstad, og siden den gang har han vært instruktør i Grimstad Grappling & MMA, Performance Kampsportsenter, og nå Arendal BJJ.
+ Vetle har sort belte under Eduardo Teta Rios fra Frontline Academy i Oslo, et av europas beste BJJ-akademier, hvor han trente i mange år. I 2014 flyttet han til Grimstad, og siden den gang har han vært instruktør i Grimstad Grappling & MMA, Performance Kampsportsenter, og nå Arendal BJJ.
 
 ### Petter Gjertsen
 
@@ -40,7 +40,7 @@ konkurrerte.
 
 ### Richard Hansen
 <img style="max-width: 45%;" src="{{ "" | relative_url }}/assets/images/people/richard.jpg" class="polaroid instructor"/>
-Richard har blått belte i BJJ, og elsker de mest kompliserte teknikkene som finnes i BJJ - derfor har han også ansvaret for advanced-treningene våre.
+Richard har lilla belte i BJJ, og elsker de mest kompliserte teknikkene som finnes i BJJ - derfor har han også ansvaret for advanced-treningene våre.
 
 ### Alf-Arne Risdal
 <img style="max-width: 45%;" src="{{ "" | relative_url }}/assets/images/people/alf.jpg" class="polaroid instructor"/>
