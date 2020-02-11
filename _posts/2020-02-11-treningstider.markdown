@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "En liten endring i treningstidene"
-date:   2019-11-02 23:07:01 
+date:   2020-02-11 08:00
 categories:
 ---
 <img src="{{ "" | relative_url }}/assets/images/treningstider-2020.png" class="polaroid">
