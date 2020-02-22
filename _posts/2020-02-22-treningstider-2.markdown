@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Endra en liten endring i treningstidene!"
+title:  "Enda en liten endring i treningstidene!"
 date:   2020-02-22 16:00
 categories:
 ---
