@@ -7,8 +7,8 @@ permalink: /treningstider/
 <table>
 <tr><th></th><th>18:00 - 19:30</th><th>19:30 - 21:00</th></tr>
 <tr><td style="font-weight: bold;">Mandag</td><td></td><td></td></tr>
-<tr><td style="font-weight: bold;">Tirsdag</td><td>Basic</td><td>Intermediate</td></tr>
-<tr><td style="font-weight: bold;">Onsdag</td><td>No-gi</td><td>Advanced</td></tr>
+<tr><td style="font-weight: bold;">Tirsdag</td><td>Basic</td><td>Advanced</td></tr>
+<tr><td style="font-weight: bold;">Onsdag</td><td>No-gi</td><td>Intermediate</td></tr>
 <tr><td style="font-weight: bold;">Torsdag</td><td></td><td></td></tr>
 <tr><td style="font-weight: bold;">Fredag</td><td>Basic</td><td>Intermediate</td></tr>
 </table>
