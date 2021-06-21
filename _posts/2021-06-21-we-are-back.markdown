@@ -8,6 +8,6 @@ categories:
 
 15 måneder? Har det virkelig gått 15 måneder siden vi måtte stenge?! Etter at de nye smittevernsreglene trådde i kraft, kan vi endelig trene igjen.
 
-Vi starter med fellestreninger tirsdag, onsdag og fredag 19:00, i tillegg til åpen matte hver søndag 19:00. Etter sommeren vil det bli satt opp nye treningstider.
+Vi starter med fellestreninger tirsdag, onsdag og fredag 19:00, i tillegg til åpen matte hver søndag 19:00. Etter sommeren vil det bli satt opp nye treningstider. All trening vil bli lagt ut på Spond, og alle må melde seg på der.
 
 Sees på matta!
