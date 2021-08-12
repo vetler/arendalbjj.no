@@ -5,14 +5,14 @@ permalink: /treningstider/
 ---
 
 <table>
-<tr><th></th><th>19:00 - 20:30</th><!-- th>19:30 - 21:00</th --></tr>
+<tr><th></th><th>18:00 - 19:30</th><th>19:30 - 21:00</th></tr>
 <tr><td style="font-weight: bold;">Mandag</td><td></td><!-- td></td --></tr>
-<tr><td style="font-weight: bold;">Tirsdag</td><td>Fellestrening</td><!-- td>Advanced</td --></tr>
-<tr><td style="font-weight: bold;">Onsdag</td><td>Fellestrening</td><!-- td>Intermediate</td --></tr>
-<tr><td style="font-weight: bold;">Torsdag</td><td></td><!-- td></td --></tr>
-<tr><td style="font-weight: bold;">Fredag</td><td>Fellestrening</td><!-- td>Intermediate</td --></tr>
-<tr><td style="font-weight: bold;">Torsdag</td><td></td><!-- td></td --></tr>
-<tr><td style="font-weight: bold;">Søndag</td><td>Åpen matte</td><!-- td>Intermediate</td --></tr>
+<tr><td style="font-weight: bold;">Tirsdag</td><td>Nogi basic</td><td>Nogi intermediate</td></tr>
+<tr><td style="font-weight: bold;">Onsdag</td><td>Gi basic</td><td>Gi intermediate</td></tr>
+<tr><td style="font-weight: bold;">Torsdag</td><td></td><td></td></tr>
+<tr><td style="font-weight: bold;">Fredag</td><td>Fellestrening</td><td></td></tr>
+<tr><td style="font-weight: bold;">Lørdag</td><td></td><td></td></tr>
+<tr><td style="font-weight: bold;">Søndag</td><td>19:00 Åpen matte</td><td>Intermediate</td></tr>
 </table>
 
 <b>Fellestrening:</b> Alle trener sammen, uavhengig av nivå.
