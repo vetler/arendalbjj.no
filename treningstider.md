@@ -10,9 +10,9 @@ permalink: /treningstider/
 <tr><td style="font-weight: bold;">Tirsdag</td><td>Nogi fellestrening</td><!-- td>Nogi intermediate</td --></tr>
 <tr><td style="font-weight: bold;">Onsdag</td><td>Gi fellestrening</td><!-- td>Gi intermediate</td --></tr>
 <tr><td style="font-weight: bold;">Torsdag</td><td></td><td></td></tr>
-<tr><td style="font-weight: bold;">Fredag</td><td>Fellestrening</td><td></td></tr>
+<tr><td style="font-weight: bold;">Fredag</td><td>Gi ellestrening</td><td></td></tr>
 <tr><td style="font-weight: bold;">Lørdag</td><td></td><td></td></tr>
-  <tr><td style="font-weight: bold;">Søndag</td><td><b>19:00</b> Åpen matte</td><td></td></tr>
+<tr><td style="font-weight: bold;">Søndag</td><td>Åpen matte</td><td></td></tr>
 </table>
 
 <b>Fellestrening:</b> Alle trener sammen, uavhengig av nivå.
