@@ -35,16 +35,12 @@ Petter har lilla belte, og har trent i Larvik BJJ og på Frontline Academy. Han 
 ### Tina Bjerkeng
 
 <img style="max-width: 45%;" src="{{ "" | relative_url }}/assets/images/people/tina.jpg" class="polaroid instructor"/>
-Tina har blått belte, er en av våre mest meritterte utøvere, og har vunnet medaljer i nesten alle konkurranser siden første gang hun
+Tina har lilla belte, er en av våre mest meritterte utøvere, og har vunnet medaljer i nesten alle konkurranser siden første gang hun
 konkurrerte.
 
 ### Richard Hansen
 <img style="max-width: 45%;" src="{{ "" | relative_url }}/assets/images/people/richard.jpg" class="polaroid instructor"/>
-Richard har lilla belte i BJJ, og elsker de mest kompliserte teknikkene som finnes i BJJ - derfor har han også ansvaret for advanced-treningene våre.
-
-### Alf-Arne Risdal
-<img style="max-width: 45%;" src="{{ "" | relative_url }}/assets/images/people/alf.jpg" class="polaroid instructor"/>
-Alfie har blått belte i BJJ, og har konkurrert mye. Liker både takedowns og guard pulls, og trening både med og uten gi.
+Richard har brunt belte i BJJ, og elsker de mest kompliserte teknikkene som finnes i BJJ - derfor har han også ansvaret for advanced-treningene våre.
 
 ### Dan Thomas Marceliussen
 <img style="max-width: 45%;" src="{{ "" | relative_url }}/assets/images/people/danthomas.jpg" class="polaroid instructor"/>
