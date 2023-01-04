@@ -6,7 +6,7 @@ permalink: /kontakt/
 
 <b>Epost:</b> info@arendalbjj.no
 
-<b>Tlf:</b> 48 10 48 23
+<b>Tlf:</b> 40 40 14 37
 
 <b>Besøksadresse:</b> Hansnesveien 27c 
 
