@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Nye treningslokaler"
-date:   2023-07-26 12:00
+date:   2023-07-26 10:00
 ---
 Fra og med tirsdag 1. august trener vi i nye lokaler i Gåselia 12! 😎🤙
 Treningstidene er de samme, 19:30 tirsdag (nogi)/onsdag/fredag/søndag (åpen matte)
