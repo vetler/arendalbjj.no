@@ -8,7 +8,7 @@ permalink: /kontakt/
 
 <b>Tlf:</b> 40 40 14 37
 
-<b>Besøksadresse:</b> Hansnesveien 27c 
+<b>Besøksadresse:</b> Gåselia 12
 
 <img src="{{ "" | relative_url }}/assets/images/kart.png" style="  max-width:95%;
                                                            border: solid #fff;
