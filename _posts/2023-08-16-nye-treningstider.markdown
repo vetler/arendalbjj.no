@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Nye treningstider"
-date:   2023-07-16 10:00
+date:   2023-08-16 10:00
 ---
 Ny timeplan!
 
