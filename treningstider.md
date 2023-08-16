@@ -10,7 +10,7 @@ permalink: /treningstider/
 <tr><td style="font-weight: bold;">Tirsdag</td><td></td><td>Nogi fellestrening</td><!-- td>Nogi intermediate</td --></tr>
 <tr><td style="font-weight: bold;">Onsdag</td><td>Gi basic</td><td>Gi advanced</td></tr>
 <tr><td style="font-weight: bold;">Torsdag</td><td></td><td></td><!-- td></td --></tr>
-<tr><td style="font-weight: bold;">Fredag</td><td></td><td>Gi ellestrening</td><!-- td></td --></tr>
+<tr><td style="font-weight: bold;">Fredag</td><td></td><td>Gi fellestrening</td><!-- td></td --></tr>
 <tr><td style="font-weight: bold;">Lørdag</td><td></td><td></td><!-- td></td --></tr>
 <tr><td style="font-weight: bold;">Søndag</td><td></td><td>Åpen matte</td><!-- td></td --></tr>
 </table>
@@ -21,8 +21,8 @@ permalink: /treningstider/
 
 <b>Basic:</b> Dette partiet tar for seg grunnleggende teknikker, og er partiet alle nybegynnere starter på. Åpent for alle nivåer.
 
-<b>Intermediate:</b> Et parti for de som kan det mest grunnleggende og trenger større utfordringer. Åpent for de med hvitt belte med en stripe og oppover.
+<b>Advanced:</b> Et parti for de som kan det mest grunnleggende og trenger større utfordringer. Åpent for de med hvitt belte med en stripe og oppover.
 
-<b>Advanced:</b> For de som vil lære de mest avanserte teknikkene. Åpent for blåbelter og oppover.
+<!-- b>Advanced:</b> For de som vil lære de mest avanserte teknikkene. Åpent for blåbelter og oppover. -->
 
 <b>No-gi:</b> Her trener vi uten gi, med rashguard og shorts og/eller tights. Kalles også submission wrestling. Åpent for alle nivåer.
