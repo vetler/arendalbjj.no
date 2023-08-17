@@ -10,4 +10,4 @@ Onsdag 19:30 blir for hvitbelter m/stripe og oppover.
 
 Partiene de andre dagene er for alle som tidligere!
 
-<a href="https://arendalbjj.no/treningstider/">Se her for oversikt over aller partiene.</a>
+<a href="https://arendalbjj.no/treningstider/">Se her for oversikt over alle partiene.</a>
