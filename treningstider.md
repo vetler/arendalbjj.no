@@ -4,6 +4,8 @@ title: Treningstider
 permalink: /treningstider/
 ---
 
+Alle treninger er for ungdom og voksne fra 15 år og oppover.
+
 <table>
 <tr><th></th><th>18:00 - 19:30</th><th>19:30 - 21:00</th></tr>
 <tr><td style="font-weight: bold;">Mandag</td><td></td><td></td><!-- td></td --></tr>
