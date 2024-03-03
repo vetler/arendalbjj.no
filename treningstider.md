@@ -23,7 +23,7 @@ Alle treninger er for ungdom og voksne fra 15 år og oppover.
 
 <b>Basic:</b> Dette partiet tar for seg grunnleggende teknikker, og er partiet alle nybegynnere starter på. Åpent for alle nivåer.
 
-<b>Advanced:</b> Et parti for de som kan det mest grunnleggende og trenger større utfordringer. Åpent for de med hvitt belte med en stripe og oppover.
+<b>Advanced:</b> Et parti for de som kan det mest grunnleggende og trenger større utfordringer. Åpent for de med blått belte og oppover.
 
 <!-- b>Advanced:</b> For de som vil lære de mest avanserte teknikkene. Åpent for blåbelter og oppover. -->
 
