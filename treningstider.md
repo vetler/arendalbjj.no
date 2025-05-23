@@ -10,7 +10,7 @@ Alle treninger er for ungdom og voksne fra 15 år og oppover.
 <tr><th></th><th>18:00 - 19:30</th><th>19:30 - 21:00</th></tr>
 <tr><td style="font-weight: bold;">Mandag</td><td></td><td></td><!-- td></td --></tr>
 <tr><td style="font-weight: bold;">Tirsdag</td><td></td><td>Nogi fellestrening</td><!-- td>Nogi intermediate</td --></tr>
-<tr><td style="font-weight: bold;">Onsdag</td><td>Gi basic</td><td>Gi advanced</td></tr>
+<tr><td style="font-weight: bold;">Onsdag</td><td></td><td>Gi fellestrening</td></tr>
 <tr><td style="font-weight: bold;">Torsdag</td><td></td><td></td><!-- td></td --></tr>
 <tr><td style="font-weight: bold;">Fredag</td><td></td><td>Gi fellestrening</td><!-- td></td --></tr>
 <tr><td style="font-weight: bold;">Lørdag</td><td></td><td></td><!-- td></td --></tr>
