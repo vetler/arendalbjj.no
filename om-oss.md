@@ -63,7 +63,7 @@ Vi er stolte av vår BJJ-stamtavle som går strake veien tilbake til Carlson Gra
     <img src="{{ '' | relative_url }}/assets/images/people/danthomas.jpg" alt="Dan Thomas Marceliussen" class="polaroid instructor" style="max-width: 120px; margin-bottom: 1rem;" />
     <h3 style="margin-bottom:0.5rem;">Dan Thomas Marceliussen</h3>
     <div style="font-weight:600;color:#1a2233;margin-bottom:0.5rem;">Blått belte</div>
-    <div style="font-size:0.97rem;">Det finnes neppe en kampsport som Dan Thomas ikke har trent, og han er ekspert på nærkamp og selvforsvar. Hos oss er han instruktør på nogi/submission wrestling-partiet. Han kan også rulle med pysjamas, og har blått belte i BJJ.</div>
+    <div style="font-size:0.97rem;">Det finnes neppe en kampsport som Dan Thomas ikke har trent, og han er ekspert på nærkamp og selvforsvar.</div>
   </div>
 </div>
 
