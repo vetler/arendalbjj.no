@@ -50,8 +50,8 @@ Vi er stolte av vår BJJ-stamtavle som går strake veien tilbake til Carlson Gra
   <div style="flex:1 1 260px;max-width:320px;background:#fff;border-radius:12px;box-shadow:0 2px 12px rgba(0,0,0,0.06);padding:1.5rem;text-align:center;">
     <img src="{{ '' | relative_url }}/assets/images/people/petter.jpg" alt="Petter Gjertsen" class="polaroid instructor" style="max-width: 120px; margin-bottom: 1rem;" />
     <h3 style="margin-bottom:0.5rem;">Petter Gjertsen</h3>
-    <div style="font-weight:600;color:#1a2233;margin-bottom:0.5rem;">Lilla belte</div>
-    <div style="font-size:0.97rem;">Petter har lilla belte, og har trent i Larvik BJJ og på Frontline Academy. Han konkurrerer mye, og har flere medaljer fra blant annet Sande BJJ cup og BJJ Scandinavia Open.</div>
+    <div style="font-weight:600;color:#1a2233;margin-bottom:0.5rem;">Brunt belte</div>
+    <div style="font-size:0.97rem;">Petter har brunt belte, og har trent i Larvik BJJ og på Frontline Academy. Han konkurrerer mye, og har flere medaljer fra blant annet Sande BJJ cup og BJJ Scandinavia Open.</div>
   </div>
   <div style="flex:1 1 260px;max-width:320px;background:#fff;border-radius:12px;box-shadow:0 2px 12px rgba(0,0,0,0.06);padding:1.5rem;text-align:center;">
     <img src="{{ '' | relative_url }}/assets/images/people/tina.jpg" alt="Tina Bjerkeng" class="polaroid instructor" style="max-width: 120px; margin-bottom: 1rem;" />
