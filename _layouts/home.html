@@ -3,36 +3,106 @@ layout: default
 ---
 
 <div class="home">
-    {%- if page.title -%}
-    <h1 class="page-heading">{{ page.title }}</h1>
-    {%- endif -%}
+  <h1 class="page-heading">Treningstider</h1>
+  <table style="width: 100%; margin-bottom: 2rem; border-collapse: collapse">
+    <thead>
+      <tr style="background: #f0f0f0">
+        <th style="padding: 0.5rem 0.75rem; text-align: left">Dag</th>
+        <th style="padding: 0.5rem 0.75rem; text-align: left">Tid</th>
+        <th style="padding: 0.5rem 0.75rem; text-align: left">Gruppe</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Mandag</td>
+        <td>18:00–19:00</td>
+        <td>Barn/Ungdom</td>
+      </tr>
+      <tr>
+        <td>Mandag</td>
+        <td>19:00–20:30</td>
+        <td>Voksne</td>
+      </tr>
+      <tr>
+        <td>Onsdag</td>
+        <td>18:00–19:00</td>
+        <td>Barn/Ungdom</td>
+      </tr>
+      <tr>
+        <td>Onsdag</td>
+        <td>19:00–20:30</td>
+        <td>Voksne</td>
+      </tr>
+      <tr>
+        <td>Torsdag</td>
+        <td>18:00–19:00</td>
+        <td>Barn/Ungdom</td>
+      </tr>
+      <tr>
+        <td>Torsdag</td>
+        <td>19:00–20:30</td>
+        <td>Voksne</td>
+      </tr>
+    </tbody>
+  </table>
 
-    {{ content }}
-
-    {%- if site.posts.size > 0 -%}
-    <h2 class="post-list-heading">{{ page.list_title | default: "Posts" }}</h2>
-    <ul class="post-list">
-        {%- for post in site.posts -%}
-        <li>
-            {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-            <span class="post-meta">{{ post.date | date: date_format }}</span>
-            <h3>
-                <a class="post-link" href="{{ post.url | relative_url }}">
-                    {{ post.title | escape }}
-                </a>
-            </h3>
-            {%- if site.show_excerpts -%}
-            {{ post.content }}
-            {%- endif -%}
-        </li>
-        {%- endfor -%}
-    </ul>
-
-    <p class="feed-subscribe">
-        <a href="{{ 'feed.xml' | relative_url }}">
-            <svg class="svg-icon orange"><use xlink:href="{{ 'assets/minima-social-icons.svg#rss' | relative_url }}"></use></svg><span>Subscribe</span>
-        </a>
-    </p>
-    {%- endif -%}
-
+  <h2>Instruktører</h2>
+  <div
+    style="display: flex; flex-wrap: wrap; gap: 2rem; align-items: flex-start"
+  >
+    <div style="flex: 1 1 200px; max-width: 220px; text-align: center">
+      <img
+        src="/assets/images/people/vetle.jpg"
+        alt="Vetle"
+        class="instructor polaroid"
+      />
+      <h3>Vetle</h3>
+      <p>Hovedinstruktør<br />Sort belte</p>
+    </div>
+    <div style="flex: 1 1 200px; max-width: 220px; text-align: center">
+      <img
+        src="/assets/images/people/alf.jpg"
+        alt="Alf"
+        class="instructor polaroid"
+      />
+      <h3>Alf</h3>
+      <p>Instruktør<br />Brunt belte</p>
+    </div>
+    <div style="flex: 1 1 200px; max-width: 220px; text-align: center">
+      <img
+        src="/assets/images/people/danthomas.jpg"
+        alt="Dan Thomas"
+        class="instructor polaroid"
+      />
+      <h3>Dan Thomas</h3>
+      <p>Instruktør<br />Lilla belte</p>
+    </div>
+    <div style="flex: 1 1 200px; max-width: 220px; text-align: center">
+      <img
+        src="/assets/images/people/petter.jpg"
+        alt="Petter"
+        class="instructor polaroid"
+      />
+      <h3>Petter</h3>
+      <p>Instruktør<br />Lilla belte</p>
+    </div>
+    <div style="flex: 1 1 200px; max-width: 220px; text-align: center">
+      <img
+        src="/assets/images/people/richard.jpg"
+        alt="Richard"
+        class="instructor polaroid"
+      />
+      <h3>Richard</h3>
+      <p>Instruktør<br />Lilla belte</p>
+    </div>
+    <div style="flex: 1 1 200px; max-width: 220px; text-align: center">
+      <img
+        src="/assets/images/people/tina.jpg"
+        alt="Tina"
+        class="instructor polaroid"
+      />
+      <h3>Tina</h3>
+      <p>Instruktør<br />Blått belte</p>
+    </div>
+  </div>
 </div>
