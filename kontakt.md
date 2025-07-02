@@ -6,7 +6,7 @@ permalink: /kontakt/
 
 <b>Epost:</b> info@arendalbjj.no
 
-<b>Tlf:</b> 40 40 14 37
+<b>Tlf:</b> 481 04 823
 
 <b>Besøksadresse:</b> Gåselia 12
 
