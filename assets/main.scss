@@ -1,25 +1,123 @@
----
-# Only the main Sass file needs front matter (the dashes are enough)
----
-
 @import "minima";
 
+// Google Fonts
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap');
+
+body {
+  font-family: 'Inter', Arial, sans-serif;
+  background: #f8fafc;
+  color: #222;
+  margin: 0;
+  padding: 0;
+}
+
+.site-header {
+  background: #1a2233;
+  color: #fff;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.04);
+}
+
+.site-title img {
+  max-width: 220px;
+  margin: 0.5rem 0;
+}
+
+.site-nav .page-link {
+  color: #fff;
+  margin: 0 1rem;
+  text-decoration: none;
+  font-weight: 500;
+  transition: color 0.2s;
+}
+.site-nav .page-link:hover {
+  color: #ffb347;
+}
+
+.home {
+  max-width: 700px;
+  margin: 2rem auto;
+  background: #fff;
+  border-radius: 12px;
+  box-shadow: 0 2px 16px rgba(0,0,0,0.06);
+  padding: 2rem 1.5rem;
+}
+
+.post-list {
+  list-style: none;
+  padding: 0;
+}
+.post-list li {
+  margin-bottom: 2rem;
+  border-bottom: 1px solid #eee;
+  padding-bottom: 1rem;
+}
+.post-list-heading {
+  margin-top: 2rem;
+  font-size: 1.5rem;
+  color: #1a2233;
+}
+.post-link {
+  color: #1a2233;
+  text-decoration: none;
+  font-weight: 700;
+  font-size: 1.1rem;
+}
+.post-link:hover {
+  color: #ffb347;
+}
+.post-meta {
+  color: #888;
+  font-size: 0.95rem;
+}
+
+.feed-subscribe a {
+  display: inline-flex;
+  align-items: center;
+  background: #ffb347;
+  color: #fff;
+  padding: 0.5rem 1rem;
+  border-radius: 6px;
+  text-decoration: none;
+  font-weight: 600;
+  transition: background 0.2s;
+}
+.feed-subscribe a:hover {
+  background: #ff8800;
+}
+
+// Polaroid and instructor images
 .polaroid {
- max-width:95%;
-                                                           border: solid #fff;
-                                                           border-width: 6px 6px 20px 6px;
-                                                           box-shadow: 1px 1px 5px #333;
-                                                           -webkit-box-shadow: 1px 1px 5px #333;
-                                                           -moz-box-shadow: 1px 1px 5px #333;
-                                                           display: block;
-                                                           }
+  max-width: 95%;
+  border: solid #fff;
+  border-width: 6px 6px 20px 6px;
+  box-shadow: 1px 1px 5px #333;
+  display: block;
+  border-radius: 8px;
+}
+.instructor {
+  float: left;
+  margin-right: 15px;
+  margin-bottom: 20px;
+  border-radius: 50%;
+  width: 120px;
+  height: 120px;
+  object-fit: cover;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+}
+h3 {
+  clear: both;
+}
 
- .instructor {
- float: left;
- margin-right: 15px;
- margin-bottom: 20px;
- }
-
- h3 {
- clear: both;
- }
+// Responsive design
+@media (max-width: 800px) {
+  .home {
+    padding: 1rem 0.5rem;
+  }
+  .site-title img {
+    max-width: 150px;
+  }
+  .instructor {
+    width: 80px;
+    height: 80px;
+  }
+}
