@@ -29,7 +29,7 @@ Vi er stolte av vår BJJ-stamtavle som går strake veien tilbake til Carlson Gra
 
 ### Richard Hansen
 <img style="max-width: 45%;" src="{{ "" | relative_url }}/assets/images/people/richard.jpg" class="polaroid instructor"/>
-Richard har brunt belte i BJJ, og elsker de mest kompliserte teknikkene som finnes i BJJ - derfor har han også ansvaret for advanced-treningene våre.
+Richard har sort belte i BJJ, og elsker de mest kompliserte teknikkene som finnes i BJJ - derfor har han også ansvaret for advanced-treningene våre.
 
 ### Petter Gjertsen
 
