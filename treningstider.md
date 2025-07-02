@@ -17,7 +17,7 @@ Alle treninger er for ungdom og voksne fra 15 år og oppover.
 <tr><td style="font-weight: bold;">Søndag</td><td></td><td>Åpen matte</td><!-- td></td --></tr>
 </table>
 
-<b>Fellestrening:</b> Alle trener sammen, uavhengig av nivå.
+<b>Fellestrening:</b> Alle trener sammen, uavhengig av nivå.    
 
 <b>Åpen matte:</b> Sparring eller drilling, gjør det du foretrekker. Stort sett med gi, men alltid noen som kan rulle no-gi også.
 
