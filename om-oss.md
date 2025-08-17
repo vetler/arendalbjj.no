@@ -9,7 +9,7 @@ permalink: /om-oss/
 Arendal BJJ er en undergruppe i Arendal Jiu Jitsu Klubb, hvor vi trener Brasiliansk jiu-jitsu, og Sørlandets første klubb med sortbelteinstruktør.
 
 
-## Hva er Brasiliansk jiu-jitsu?
+<h2>Hva er Brasiliansk jiu-jitsu?</h2>
 
 <div style="display: flex; flex-wrap: wrap; gap: 2rem; align-items: flex-start;">
   <div style="flex: 2 1 300px; min-width: 250px;">
